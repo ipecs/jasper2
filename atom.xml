@@ -6,5 +6,19 @@
     <link>
     </link>
     
+      
+      <item>
+        <title>Esta es una prueba</title>
+        
+          <description>&lt;p&gt;prueba prueba prueba prueba.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 26 Jun 2020 15:56:00 +0000</pubDate>
+        <link>
+        /estaesuna-prueba</link>
+        <guid isPermaLink="true">/estaesuna-prueba</guid>
+      </item>
+      
+    
   </channel>
 </rss>
